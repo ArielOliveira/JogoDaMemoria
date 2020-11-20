@@ -48,13 +48,11 @@ public class GameActivity extends AppCompatActivity {
         numeroBotoes = 24;
         par = new String[numeroBotoes/2];
         if (savedInstanceState != null) {
-        	Log.println(Log.INFO, "GameActivity", "CarregandoSave");
         	pessoa = (Pessoa)savedInstanceState.getSerializable("pessoa");
         	run = savedInstanceState.getBoolean("run");
         	List<String> isEnabled = new ArrayList<String>();
         	isEnabled = savedInstanceState.getStringArrayList("isEnabled");
         	seed = savedInstanceState.getLong("seed");
-			Log.println(Log.INFO, "GameActivity", "Getting seed =" + seed);
 			s = new Sorteio(numeroBotoes/2, seed);
         	iniciarJogo(true);
         	if (run) {
@@ -70,7 +68,6 @@ public class GameActivity extends AppCompatActivity {
         } else {
 			seed = new Random().nextLong();
 			s = new Sorteio(numeroBotoes/2, seed);
-			Log.println(Log.INFO, "GameActivity", "Initializing seed =" + seed);
         	difficulty = getIntent().getIntExtra("difficulty", 1);
         	pessoa = novaPessoa();
         	run = false;
