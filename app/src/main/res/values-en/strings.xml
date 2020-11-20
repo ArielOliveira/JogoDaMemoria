@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	
+    <string name="menu">Main Menu</string>
+    <string name="jogar">Play</string>
+    <string name="opcoes">Options</string>
+    <string name="ranking">Ranking</string>
+    
+    <string name="jogo_iniciado">Game Started!</string>
+    <string name="erros">Missed</string>
+    <string name="restantes">Left</string>
+    <string name="sair">Quit</string>
+
+    <string name="tempo">Time</string>
+    <string name="nome">Name</string>
+    <string name="pontos">Scores</string>
+
+</resources>

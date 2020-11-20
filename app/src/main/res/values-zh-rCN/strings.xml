@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="menu">主菜单</string>
+    <string name="jogar">播放</string>
+    <string name="opcoes">选项 </string>
+    <string name="ranking">排名</string>
+    
+    <string name="jogo_iniciado">比赛正式开始！</string>
+    <string name="erros">错过</string>
+    <string name="restantes">剩余</string>
+    <string name="sair">戒烟</string>
+
+    <string name="tempo">时间</string>
+    <string name="nome">名</string>
+    <string name="pontos">分数</string>
+    
+
+</resources>

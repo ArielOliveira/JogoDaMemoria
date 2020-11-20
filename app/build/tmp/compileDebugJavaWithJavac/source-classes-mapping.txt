@@ -1,0 +1,31 @@
+com/arielado/jogodamemoria/Pessoa.java
+ com.arielado.jogodamemoria.Pessoa
+com/arielado/jogodamemoria/Banco.java
+ com.arielado.jogodamemoria.Banco
+com/arielado/jogodamemoria/BuildConfig.java
+ com.arielado.jogodamemoria.BuildConfig
+com/arielado/jogodamemoria/Contador.java
+ com.arielado.jogodamemoria.Contador
+ com.arielado.jogodamemoria.Contador$InnerThread
+com/arielado/jogodamemoria/OpcoesFragment.java
+ com.arielado.jogodamemoria.OpcoesFragment
+ com.arielado.jogodamemoria.OpcoesFragment$1
+ com.arielado.jogodamemoria.OpcoesFragment$2
+ com.arielado.jogodamemoria.OpcoesFragment$3
+ com.arielado.jogodamemoria.OpcoesFragment$4
+ com.arielado.jogodamemoria.OpcoesFragment$onOptionsItemsSelected
+com/arielado/jogodamemoria/MenuFragment.java
+ com.arielado.jogodamemoria.MenuFragment
+ com.arielado.jogodamemoria.MenuFragment$1
+ com.arielado.jogodamemoria.MenuFragment$2
+ com.arielado.jogodamemoria.MenuFragment$3
+ com.arielado.jogodamemoria.MenuFragment$OuvinteBotao
+com/arielado/jogodamemoria/GameActivity.java
+ com.arielado.jogodamemoria.GameActivity
+ com.arielado.jogodamemoria.GameActivity$1
+ com.arielado.jogodamemoria.GameActivity$Transparente
+ com.arielado.jogodamemoria.GameActivity$Transparente$transparencia
+com/arielado/jogodamemoria/MainActivity.java
+ com.arielado.jogodamemoria.MainActivity
+com/arielado/jogodamemoria/Sorteio.java
+ com.arielado.jogodamemoria.Sorteio

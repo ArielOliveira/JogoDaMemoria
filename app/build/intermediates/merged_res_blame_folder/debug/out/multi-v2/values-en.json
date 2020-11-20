@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ariel\\StudioProjects\\JogoDaMemoria\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ariel\\StudioProjects\\JogoDaMemoria\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "10,5,9,4,15,6,16,7,11,12,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "298,106,241,62,465,146,504,190,340,384,425",
+                        "endColumns": "40,38,55,42,37,42,41,43,42,37,38",
+                        "endOffsets": "334,140,292,100,498,184,541,229,378,417,459"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,135,191,234,272,315,357,401,444,482",
+                        "endColumns": "40,38,55,42,37,42,41,43,42,37,38",
+                        "endOffsets": "91,130,186,229,267,310,352,396,439,477,516"
+                    }
+                }
+            ]
+        }
+    ]
+}
