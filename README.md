@@ -4,7 +4,7 @@
 
 ## Contents
 1. [About](#about)
-2. [How to Play](#how to play)
+2. [How to Play](#how-to-play)
 3. [Images](#images)
 
 ## About
@@ -15,4 +15,6 @@ Android Activity management and internationalization.
 Its a memory game that uses a bunch of buttons and compares if a pair matches with their text property.
 
 ## Images
-![Main Menu](https://github.com/ArielOliveira/JogoDaMemoria/demo/mainScreen.jpg)
+![          Main Menu](https://github.com/ArielOliveira/JogoDaMemoria/blob/master/demo/mainScreen.jpg)
+![          Gameplay](https://github.com/ArielOliveira/JogoDaMemoria/blob/master/demo/gameScreen.jpg)
+![          Score](https://github.com/ArielOliveira/JogoDaMemoria/blob/master/demo/scoreScreen.jpg)
