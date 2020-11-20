@@ -16,8 +16,8 @@ Its a memory game that uses a bunch of buttons and compares if a pair matches wi
 
 ## Images
     ## Main Menu
-<img src="https://github.com/ArielOliveira/JogoDaMemoria/blob/master/demo/mainScreen.jpg" height="250" width="250">
+<img src="https://github.com/ArielOliveira/JogoDaMemoria/blob/master/demo/mainScreen.jpg" height="270" width="420">
     ## Gameplay
-<img src="https://github.com/ArielOliveira/JogoDaMemoria/blob/master/demo/gameScreen.jpg" width="250" height="250">
+<img src="https://github.com/ArielOliveira/JogoDaMemoria/blob/master/demo/gameScreen.jpg" width="270" height="420">
     ## Score
-<img src="https://github.com/ArielOliveira/JogoDaMemoria/blob/master/demo/scoresScreen.jpg" width="250" height="250">
+<img src="https://github.com/ArielOliveira/JogoDaMemoria/blob/master/demo/scoresScreen.jpg" width="270" height="420">
