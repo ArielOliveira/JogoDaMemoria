@@ -15,6 +15,6 @@ Android Activity management and internationalization.
 Its a memory game that uses a bunch of buttons and compares if a pair matches with their text property.
 
 ## Images
-![          Main Menu](https://github.com/ArielOliveira/JogoDaMemoria/blob/master/demo/mainScreen.jpg = 250x250)
-![          Gameplay](https://github.com/ArielOliveira/JogoDaMemoria/blob/master/demo/gameScreen.jpg = 250x250)
-![          Score](https://github.com/ArielOliveira/JogoDaMemoria/blob/master/demo/scoresScreen.jpg = 250x250)
+![          Main Menu](https://github.com/ArielOliveira/JogoDaMemoria/blob/master/demo/mainScreen.jpg | height=100)
+![          Gameplay](https://github.com/ArielOliveira/JogoDaMemoria/blob/master/demo/gameScreen.jpg | height=100)
+![          Score](https://github.com/ArielOliveira/JogoDaMemoria/blob/master/demo/scoresScreen.jpg | height=100)
